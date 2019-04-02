@@ -1,0 +1,47 @@
+.container {
+    margin-top: 5rem;
+}
+
+p {
+    text-indent: 2rem;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.btn {
+    margin-top: 30px;
+    width: 13rem;
+    height: 5rem;
+    background-color: #00013A;
+    margin-top: 5rem;
+    border: none;
+    outline: none;
+    font-size: 1.5rem;
+    color: #00013A;
+    transition: all .3s;
+    border-radius: none;
+    display: block;
+    text-align: center;
+}
+
+.btn:hover {
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    background-color: #fbcb21;
+}
+
+.seeMorebtn {
+    text-align: center;
+}
+
+.display {
+    float: right;
+    margin-bottom: 0.3rem;
+}
+
+.search-form p {
+    font-size: 30px;
+    margin: 0;
+    justify-content: left;
+    align-items: left;
+}

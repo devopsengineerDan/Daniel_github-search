@@ -1,0 +1,26 @@
+.container-fluid {
+    background: #00013A;
+}
+
+body {
+    background: #00013A;
+}
+
+.navbar-dark a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 15px 17px;
+    font-size: 90px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.navbar-dark {
+    overflow: hidden;
+    background-color: #00013A;
+    height: 200px;
+}
